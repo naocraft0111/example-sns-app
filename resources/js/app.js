@@ -5,7 +5,7 @@ import ArticleTagsInput from './components/ArticleTagsInput'
 import FollowButton from './components/FollowButton'
 
 const app = new Vue({
-    el:'#app',
+    el: '#app',
     components: {
         ArticleLike,
         ArticleTagsInput,
